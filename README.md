@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg">
+![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 
 <h1 align="center">Hi 👋, I'm Jatin BiSHT</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
