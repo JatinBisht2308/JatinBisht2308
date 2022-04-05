@@ -33,6 +33,11 @@
 <p align="center">
   <img style="margin-left :300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinbisht2308&show_icons=true&locale=en&layout=compact" alt="jatinbisht2308" /> 
 </p>
+<p align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=JatinBisht2308&show_icons=true&theme=radical&show_icons=true"
+      />
+    </p>
 
 <p><img style="margin-left :300px" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinbisht2308&" alt="jatinbisht2308" /></p>
 <h3 align="center">Languages and Tools:</h3>
