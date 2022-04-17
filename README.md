@@ -57,8 +57,9 @@
 
 
 <div align="center">
+      
 [![wakatime](https://wakatime.com/badge/user/18c96644-e7f3-45bc-abf6-a67a5cc84ac9.svg)](https://wakatime.com/@18c96644-e7f3-45bc-abf6-a67a5cc84ac9)
-      </div>
+      
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 <p align="center">Made with ❤️ by Jatin Bisht</p>
