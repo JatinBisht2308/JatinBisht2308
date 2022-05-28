@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **Frontend Web Projects**
+- 👯 I’m looking to collaborate on **Web Applications**
 
-- 🥇 Master in Java  **Core Java** 🔥 🔥 🔥
+- 🥇 **Developer Intern** at (https://Koders.in)🔥 🔥 🔥
 
 - 👨‍💻 All of my projects are available at [https://github.com/JatinBisht2308](https://github.com/JatinBisht2308)
 
