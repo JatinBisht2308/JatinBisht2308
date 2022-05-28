@@ -15,13 +15,13 @@
 
 - 🥇 **Developer Intern** at [Koders.in](https://koders.in/#) 🔥 🔥
 
-- 👨‍💻 All of my projects are available at [https://github.com/JatinBisht2308](https://github.com/JatinBisht2308)
+- 👨‍💻 All of my projects are available at [My Repos](https://github.com/JatinBisht2308?tab=repositories)
 
 - 💬 Ask me about **html,Css,javascript,nodejs,java**
 
 - 📫 How to reach me **jatinbisht2308@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jatin-bisht-ba62111bb/](https://www.linkedin.com/in/jatin-bisht-ba62111bb/)
+- 📄 Know about my experiences [My Linkedin](https://www.linkedin.com/in/jatin-bisht-ba62111bb/)
 
 - ⚡ Fun fact **Coffee is the seceret of my energy..**
 
