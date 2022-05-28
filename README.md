@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
-- 🥇 **Developer Intern** at (https://Koders.in)🔥 🔥 🔥
+- 🥇 **Developer Intern** at [https://koders.in/#/] (Koders.in)🔥 🔥 🔥
 
 - 👨‍💻 All of my projects are available at [https://github.com/JatinBisht2308](https://github.com/JatinBisht2308)
 
