@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I looking to collaborate on **Web Applications**
+- 👯 I’m looking to collaborate on **Web Applications**
 
 - 🥇 **Developer Intern** at [Koders.in](https://koders.in/#) 🔥 🔥
 
