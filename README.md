@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
-- 🥇 **Developer Intern** at [Koders.in](https://koders.in/#) 🔥 🔥
+- 🥇 **Developer Intern Lvl 2** at [Koders.in](https://koders.in/#) 🔥 🔥
 
 - 👨‍💻 All of my projects are available at [My Repos](https://github.com/JatinBisht2308?tab=repositories)
 
@@ -38,17 +38,17 @@
 <br>
 <p align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=JatinBisht2308&show_icons=true&theme=radical&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api?username=JatinBisht2308&show_icons=true&theme=midnight-purple&show_icons=true"
       />
     </p>
     <p align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinBisht2308&layout=compact&theme=radical"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinBisht2308&layout=compact&theme=midnight-purple"
       />
     </p>
     <p align="center">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=JatinBisht2308&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical&sideLabels=FDDFB6"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=JatinBisht2308&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=midnight-purple&sideLabels=FDDFB6"
       />
     </p>
    <br/>
