@@ -53,8 +53,8 @@
     </p>
    <br/>
    
-   ## Leetcode Stats
-<div align="center"><img src="https://leetcode.card.workers.dev/?username=Jatin_Bisht&theme=nord" align="center" /></div> 
+   ## Geeks For Geeks Stats
+<div align="center"> [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=jatinbisht2308)](https://auth.geeksforgeeks.org/user/jatinbisht2308)</div> 
 
 
 
