@@ -53,8 +53,7 @@
     </p>
    <br/>
    
-   ## Geeks For Geeks Stats
-<div align="center"> [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=jatinbisht2308)](https://auth.geeksforgeeks.org/user/jatinbisht2308)</div> 
+ 
 
 
 
