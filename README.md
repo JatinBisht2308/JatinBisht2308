@@ -17,8 +17,6 @@
 
 - 👨‍💻 All of my projects are available at [My Repos](https://github.com/JatinBisht2308?tab=repositories)
 
-- 💬 Ask me about **html,Css,javascript,nodejs,java**
-
 - 📫 How to reach me **jatinbisht2308@gmail.com**
 
 - 📄 Know about my experiences [My Linkedin](https://www.linkedin.com/in/jatin-bisht-ba62111bb/)
