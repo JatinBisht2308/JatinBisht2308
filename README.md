@@ -51,8 +51,7 @@
     </p>
    <br/>
    
- 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JatinBisht2308&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/JatinBisht2308)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JatinBisht2308&column=7&margin-w=85&margin-h=105&no-bg=true&no-frame=true&theme=radical)](https://github.com/JatinBisht2308)
 <br>
 
 
