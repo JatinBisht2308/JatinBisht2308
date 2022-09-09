@@ -36,7 +36,7 @@
 <br>
 <p align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=JatinBisht2308&show_icons=true&theme=midnight-purple&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api?username=JatinBisht2308&show_icons=true&theme=midnight-purple&show_icons=true&include_all_commits=true"
       />
     </p>
     <p align="center">
