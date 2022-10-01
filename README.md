@@ -50,7 +50,7 @@
 
  </div>
  
-   ## Leetcode Stats
+   ## 📊Leetcode Stats
 <div align="center"><img src="https://leetcode.card.workers.dev/?username=Jatin_Bisht&theme=nord" align="center" /></div> 
  
 <h3 align="center">Languages and Tools:</h3>
