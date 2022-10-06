@@ -1,4 +1,4 @@
-![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
+![](https://user-images.githubusercontent.com/40994679/193735642-4d9789f0-209e-4598-aec8-7357976989c8.png)
 
 <div align=center>
       
@@ -36,8 +36,9 @@
 <br>
 <h3 align="left">📊 Github Stats</h3>
 <div align="center">
- 
- <img src="https://github-readme-stats.vercel.app/api?username=JatinBisht2308&show_icons=true&theme=midnight-purple&show_icons=true&include_all_commits=true"/>
+   <p>
+  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=JatinBisht2308&theme=redical">
+  </p>
  <br>
  <br>
   
