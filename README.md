@@ -1,5 +1,5 @@
-![](https://user-images.githubusercontent.com/40994679/193735642-4d9789f0-209e-4598-aec8-7357976989c8.png)
-
+[![@jatinbisht2308's Holopin board](https://holopin.me/jatinbisht2308)](https://holopin.io/@jatinbisht2308)
+ <br>
 <div align=center>
       
 ![Profile Views](https://komarev.com/ghpvc/?username=JatinBisht2308)
@@ -48,8 +48,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JatinBisht2308&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=midnight-purple&sideLabels=FDDFB6"/>
   <br>
   
-  [![@jatinbisht2308's Holopin board](https://holopin.me/jatinbisht2308)](https://holopin.io/@jatinbisht2308)
- <br>
+  
  </div>
  
    ## 📊Leetcode Stats
