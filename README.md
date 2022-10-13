@@ -48,7 +48,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JatinBisht2308&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=midnight-purple&sideLabels=FDDFB6"/>
   <br>
   
-
+  [![@jatinbisht2308's Holopin board](https://holopin.me/jatinbisht2308)](https://holopin.io/@jatinbisht2308)
+ <br>
  </div>
  
    ## 📊Leetcode Stats
