@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [My Linkedin](https://www.linkedin.com/in/jatin-bisht-ba62111bb/)
 
-- ⚡ Fun fact **Coffee is the seceret of my energy..**
+- ⚡ Fun fact **I can write a book on my feelings towards bikes..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
