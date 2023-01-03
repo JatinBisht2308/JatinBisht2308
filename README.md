@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
-- 🥇 **Developer Intern Lvl 2** at [Koders.in](https://koders.in/#) 🔥 🔥
+- 🥇 **Associate SDE** at [Turnkey Tech Solutions.in](https://www.turnkey.work/) 🔥 🔥
 
 - 👨‍💻 All of my projects are available at [My Repos](https://github.com/JatinBisht2308?tab=repositories)
 
