@@ -36,9 +36,6 @@
 <br>
 <h3 align="left">📊 Github Stats</h3>
 <div align="center">
-   <p>
-  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=JatinBisht2308&theme=redical">
-  </p>
  <br>
  <br>
   
