@@ -68,8 +68,5 @@
 
 ![MasterHead](https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg)
 
-<!-- ![MasterHead](https://cdn-images-1.medium.com/max/1600/0*-u0b7K0Q6zfBcQqT.gif) -->
 
-
-<!-- ![MasterHead](https://media.giphy.com/media/26BRzDIHfU6ItGtRS/giphy.gif) -->
 
