@@ -9,54 +9,30 @@
 
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif?format=1000w">
 
-- 🌱 I’m currently learning **Full Stack Development & DSA**
-
-- 👯 I’m looking to collaborate on **Web Applications**
-
-- 🥇 **Associate SDE** at [Turnkey Tech Solutions.in](https://www.turnkey.work/) 🔥 🔥
-
-- 👨‍💻 All of my projects are available at [My Repos](https://github.com/JatinBisht2308?tab=repositories)
-
-- 📫 How to reach me **jatinbisht2308@gmail.com**
-
-- 📄 Know about my experiences [My Linkedin](https://www.linkedin.com/in/jatin-bisht-ba62111bb/)
-
-- ⚡ Fun fact **I can write a book on my feelings towards bikes**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jatin-bisht-ba62111bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin bisht" height="30" width="40" /></a>
-<a href="https://fb.com/jatin bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jatin bisht" height="30" width="40" /></a>
-<a href="https://instagram.com/_jatin_bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jatin_bisht" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/two genius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="two genius" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jatin_bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatin_bisht" height="30" width="40" /></a>
-</p>
+# 💫 About Me:
+🔭 I’m currently working on Share Karo.<br>👯 I’m looking to collaborate on MERN and React native projects.<br>🤝 I’m looking for help with bug fixing and front-end designs.<br>🌱 I’m currently learning full stack in depth.<br>💬 Ask me about Web Development and Bikes.<br>⚡ Fun fact I'm the Paul Walker for the bikes.
 
 
-<br>
-<h3 align="left">📊 Github Stats</h3>
-<div align="center">
- <br>
- <br>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=JatinBisht2308&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  <br>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JatinBisht2308&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=midnight-purple&sideLabels=FDDFB6"/>
-  <br>
-  
-  
- </div>
- 
-   ## 📊Leetcode Stats
-<div align="center"><img src="https://leetcode.card.workers.dev/?username=Jatin_Bisht&theme=nord" align="center" /></div> 
- 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="android" width="40" height="40"/>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_soloshifter390) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jatin-bisht-ba62111bb/) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JatinBisht2308&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JatinBisht2308&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinBisht2308&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
- 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JatinBisht2308&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+[![](https://visitcount.itsvg.in/api?id=JatinBisht2308&icon=0&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
       
 [![wakatime](https://wakatime.com/badge/user/18c96644-e7f3-45bc-abf6-a67a5cc84ac9.svg)](https://wakatime.com/@18c96644-e7f3-45bc-abf6-a67a5cc84ac9)
