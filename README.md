@@ -4,7 +4,7 @@
       
 ![Profile Views](https://komarev.com/ghpvc/?username=JatinBisht2308)
       </div>
-<h1 align="center">Hi 👋, I'm Jatin BiSHT</h1>
+<h1 align="center">Hi 👋, I'm Jatin Bisht</h1>
 <h3 align="center">A passionate Full Stack Web/App Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif?format=1000w">
