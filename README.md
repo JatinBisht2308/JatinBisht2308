@@ -4,7 +4,11 @@
       
 ![Profile Views](https://komarev.com/ghpvc/?username=JatinBisht2308)
       </div>
-<h1 align="center">Hi 👋, I'm Jatin Bisht</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=FF7722&center=true&vCenter=true&width=600&height=100&lines=I'm+Jatin+Bisht!">
+  </a>
+</h1>
 <h3 align="center">A passionate Full Stack Web/App Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif?format=1000w">
