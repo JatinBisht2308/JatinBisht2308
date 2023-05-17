@@ -30,8 +30,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JatinBisht2308&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+## 📊 Open Source Contributions
+[![JatinBisht2308's GitHub | Stats](https://stats.quine.sh/JatinBisht2308/github?theme=light)](https://quine.sh)
 
 ---
 
