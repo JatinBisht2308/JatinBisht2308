@@ -47,7 +47,4 @@
 <p align="center">Made with ❤️ by Jatin Bisht</p>
 
 
-![MasterHead](https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg)
-
-
 
