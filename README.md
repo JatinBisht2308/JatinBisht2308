@@ -36,6 +36,11 @@
 
 # Blog Posts
 <!-- HASHNODE:START -->
+- [&quot;Getting Started with Open Source: A Beginner&#39;s Guide to Contributing and 5 Sources to Begin With&quot;](https://jatinonwebdevelopment.hashnode.dev/getting-started-with-open-source-a-beginners-guide-to-contributing-and-5-sources-to-begin-with)
+- [Stay Ahead of the Game with DevBytes: Your Ultimate Resource for the Latest Tech Trends and Developments](https://jatinonwebdevelopment.hashnode.dev/stay-ahead-of-the-game-with-devbytes-your-ultimate-resource-for-the-latest-tech-trends-and-developments)
+- [&quot;Master HTML in Just 21 Days&quot;](https://jatinonwebdevelopment.hashnode.dev/master-html-in-just-21-days)
+- [How to become a productive developer in 21 days.](https://jatinonwebdevelopment.hashnode.dev/how-to-become-a-productive-developer-in-21-days)
+- [Learn Git and GitHub from scratch.](https://jatinonwebdevelopment.hashnode.dev/learn-git-and-github-from-scratch)
 <!-- HASHNODE:END -->
 
 
