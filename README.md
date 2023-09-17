@@ -35,11 +35,11 @@
 
 # Blog Posts
 <!-- HASHNODE:START -->
+- [Conquering Placement Season Anxiety: Your Roadmap to Success](https://jatinonwebdevelopment.hashnode.dev/conquering-placement-season-anxiety-your-roadmap-to-success)
 - [&quot;Roadmap to Success: How to Crack Frontend Developer Placements in 4 Months&quot;](https://jatinonwebdevelopment.hashnode.dev/roadmap-to-success-how-to-crack-frontend-developer-placements-in-4-months)
 - [&quot;Getting Started with Open Source: A Beginner&#39;s Guide to Contributing and 5 Sources to Begin With&quot;](https://jatinonwebdevelopment.hashnode.dev/getting-started-with-open-source-a-beginners-guide-to-contributing-and-5-sources-to-begin-with)
 - [Stay Ahead of the Game with DevBytes: Your Ultimate Resource for the Latest Tech Trends and Developments](https://jatinonwebdevelopment.hashnode.dev/stay-ahead-of-the-game-with-devbytes-your-ultimate-resource-for-the-latest-tech-trends-and-developments)
 - [&quot;Master HTML in Just 21 Days&quot;](https://jatinonwebdevelopment.hashnode.dev/master-html-in-just-21-days)
-- [How to become a productive developer in 21 days.](https://jatinonwebdevelopment.hashnode.dev/how-to-become-a-productive-developer-in-21-days)
 <!-- HASHNODE:END -->
 
 
