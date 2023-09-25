@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif?format=1000w">
 
 # 💫 About Me:
-🔭 I’m currently working on Astro Gems Website.<br>👯 I’m looking to collaborate on MERN and React native projects.<br>🤝 I’m looking for help with bug fixing and front-end designs.<br>🌱 I’m currently learning full stack in depth.<br>💬 Ask me about Web Development and Bikes.<br>⚡ Fun fact I binge watch github communities repos for a long time.
+🔭 I’m currently working on Quizeria WebApp.<br>👯 I’m looking to collaborate on MERN and React native projects.<br>🤝 I’m looking for help with bug fixing and front-end designs.<br>🌱 I’m currently learning full stack in depth.<br>💬 Ask me about Web Development and Bikes.<br>⚡ Fun fact I binge-watch github communities repos for a long time.
 
 
 ## 🌐 Socials:
