@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif?format=1000w">
 
 # 💫 About Me:
-🔭 I’m currently working @ Kiikan Analytics.<br>👯 I’m looking to collaborate on MERN and React native projects.<br>🤝 I’m looking for help with bug fixing and front-end designs.<br>🌱 I’m currently learning full stack in depth.<br>💬 Ask me about Web Development and Bikes.<br>⚡ Fun fact I binge-watch GitHub communities repos for a long time.
+🔭 I’m currently working @ Aerem Solutions Pvt Ltd.<br>👯 I’m looking to collaborate on MERN and React native projects.<br>🤝 I’m looking for help with bug fixing and front-end designs.<br>🌱 I’m currently learning full stack in depth.<br>💬 Ask me about Web Development and Bikes.<br>⚡ Fun fact I binge-watch GitHub communities repos for a long time.
 
 
 ## 🌐 Socials:
@@ -32,15 +32,6 @@
 
 
 
-
-# Blog Posts
-<!-- HASHNODE:START -->
-- [Escaping Tutorial Hell: A Roadmap to Becoming a Productive Software Engineer](https://jatinonwebdevelopment.hashnode.dev/escaping-tutorial-hell-a-roadmap-to-becoming-a-productive-software-engineer)
-- [Unleash Your Coding Skills: A Guide to Hacktoberfest 2023](https://jatinonwebdevelopment.hashnode.dev/unleash-your-coding-skills-a-guide-to-hacktoberfest-2023)
-- [Unlocking Efficiency: Mastering Bootstrap, Tailwind CSS, and Material UI for Time-Saving Web Development](https://jatinonwebdevelopment.hashnode.dev/unlocking-efficiency-mastering-bootstrap-tailwind-css-and-material-ui-for-time-saving-web-development)
-- [A Step-by-Step Guide to Securely Managing Admin Passwords in Your Web Application](https://jatinonwebdevelopment.hashnode.dev/a-step-by-step-guide-to-securely-managing-admin-passwords-in-your-web-application)
-- [Conquering Placement Season Anxiety: Your Roadmap to Success](https://jatinonwebdevelopment.hashnode.dev/conquering-placement-season-anxiety-your-roadmap-to-success)
-<!-- HASHNODE:END -->
 
 
 
